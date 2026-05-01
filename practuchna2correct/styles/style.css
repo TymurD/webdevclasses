@@ -1,0 +1,20 @@
+h1, h2, h3, h4, h5, h6{
+    color: red;
+    font-size: large;
+    line-height: 4px;
+    letter-spacing: 2px;
+}
+
+ol {
+    color: blue;
+    font-size: medium;
+}
+
+a {
+    color: green;
+    font-size: small;}
+
+q {
+    color: purple;
+    font-size: xx-large;
+}
